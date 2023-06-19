@@ -64,14 +64,14 @@ button {
 .perfil span {
     display: block;
     color: #999999;
-    font-size: 12px;
+    font-size: 15px;
     margin: 0;
 }
 
 .perfil p {
     color: #999999;
-    font-size: 12px;
-    margin: 20px 0 0 0;
+    font-size: 15px;
+    margin: 15px 0 0 0;
 }
 
 .repositorio{
