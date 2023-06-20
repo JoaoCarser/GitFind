@@ -1,5 +1,5 @@
 # GitFind
-[![NPM](https://github.com/JoaoCarser/GitFind/blob/master/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JoaoCarser/GitFind/blob/master/LICENSE)
 
 ## Sobre
 Git Find é uma aplicação web que oferece uma maneira simples e eficiente de consultar informações sobre repositórios no GitHub. Com o Git Find, os usuários podem visualizar a foto do perfil do desenvolvedor, seu nome, além de outros dados relevantes. Quanto aos repositórios, é possível visualizar o nome de cada um e a bio correspondente. Explore o mundo dos projetos de desenvolvimento e descubra novas oportunidades de colaboração e aprendizado.
